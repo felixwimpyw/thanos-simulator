@@ -16,12 +16,12 @@ This is by assuming some thing:
 4. There's no cheating and 100% voting is valid.
 
 By percentage, what do you think will happen?
-1. Most likely be the closer with previous percentage ~ 55.5% vs 44.5%
-2. Moving closer to 50%-50% percentage
-3. Moving further from 50%-50% percentage
+1. Most likely to be close with previous percentage ~ 55.5% vs 44.5%
+2. Most likely to be moving closer to 50%-50% percentage
+3. Most likely to be moving further from 50%-50% percentage
 
 By people, which voters probably wiped out more?
 1. Most likely the same
-2. Jokowi's voters
-3. Prabowo's voters
+2. Most likely to be Jokowi's voters
+3. Most likely to be Prabowo's voters
 
