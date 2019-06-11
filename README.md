@@ -9,9 +9,9 @@ Then I was wondering if Thanos snapping his fingers with complete stones, removi
 
 ![thanos](https://github.com/felixwimpyw/thanos-simulator/raw/master/thanos.jpg "Thanos Snapping Finger")
 
-This is by assuming some thing:
-1. Both candidate of presidential Election will not vanish.
-2. Program will removing exactly 50% from the voters.
+This is by assuming some things:
+1. Both candidate of presidential Election will never vanish.
+2. Program will removing exactly 50% people from the voters.
 3. Re-election is held and all people re-choosing what they're choosing before without any changes.
 4. There's no cheating and 100% voting is valid.
 
